@@ -1,0 +1,2 @@
+# daire
+daire dilimi alanı
